@@ -1,2 +1,2 @@
 # open-mobile-robotics-framework
-An open, expandable robotics frame
+An open, expandable robotics frame providing a standardized set of component interfaces to facilitate plug-n-play functionality.
